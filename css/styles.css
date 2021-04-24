@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(224, 216, 216);
+    text-align: center;
+}
+#title{
+    color: rgb(215, 221, 136);
+    background-color: rgb(184, 105, 105);
+    padding: 16px;
+    font-family: monospace;
+}
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+#img-caption {
+    margin-top: 2rem;
+    font: bold;
+    font-style: italic;
+    font-size: xx-large; color: rgb(228, 125, 65);
+}
+
+#img-div {
+    display: flex;
+    flex-direction: column;
+    
+}
+#tribute-link{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(214, 120, 218);
+    border-bottom: inset rgb(15, 2, 15)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
